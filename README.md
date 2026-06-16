@@ -1,10 +1,15 @@
 # 💫 About Me:
 
 🔭 I'm currently working on: **Resumify**, an AI-driven recruitment platform that automates resume parsing to objectively match skills and generates interview questions based strictly on Job Descriptions, as well as **AILTS**, a platform for English language testing analysis.
+
 👯 I'm looking to collaborate on: Applied machine learning projects, NLP pipelines using DistilBERT or RAG architectures, and scalable full-stack applications (React, Node.js, Django).
+
 🤝 I'm looking for help with: Implementing advanced Human-Computer Interaction (HCI) frameworks or optimizing local AI environments using Ollama.
+
 🌱 I'm currently learning: Advanced RISC-V pipelined processors, hazard detection logic, and refining semantic segmentation networks.
+
 💬 Ask me about: Full-stack web development, Natural Language Processing, C++, and deploying on-device real-time computer vision models.
+
 ⚡ Fun fact: I actually prefer configuring AI models to run locally on secondary drives to maximize performance while managing storage constraints!
 
 ## 🌐 Socials:
